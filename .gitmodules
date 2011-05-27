@@ -1,0 +1,3 @@
+[submodule "vendor/js/mootools-ckeditor"]
+	path = vendor/js/mootools-ckeditor
+	url = git://github.com/Inviz/mootools-ckeditor.git
